@@ -15,7 +15,7 @@
         android:orientation="horizontal"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/content_layout">
+        android:id="@+id/float_bar_content_layout">
 
         <ImageButton
             android:layout_width="wrap_content"
